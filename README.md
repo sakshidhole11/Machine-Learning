@@ -1,4 +1,4 @@
-# PRODIGY_ML_01-
+# Machine_Learning_01-
 Machine Learning 
 {
  "cells": [
